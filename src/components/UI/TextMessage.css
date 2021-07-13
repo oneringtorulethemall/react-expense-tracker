@@ -1,0 +1,15 @@
+.text-message-container {
+    /*width: 100%;*/
+    background-color: rgb(112, 93, 93);
+    border-radius: 6px;
+    border: #bfbfbf;
+    border-width: 1px;
+    border-style: none;
+    padding: 1rem;
+    margin: 1.2rem;
+}
+.text-message {
+    color: white !important;
+    font-size: larger;
+    text-align: center;
+}
